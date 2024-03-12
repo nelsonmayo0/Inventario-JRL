@@ -21,4 +21,4 @@ Instalación en windows (servidor local)
 
 7- Datos de acceso por defecto: usuario: admin y contraseña: admin
 
-Para más información visita: http://obedalvarado.pw/blog/sistema-inventario-simple-php/
+
